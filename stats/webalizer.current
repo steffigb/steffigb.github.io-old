@@ -1,0 +1,293 @@
+# Webalizer V2.23-08 Incremental Data - 12/02/2022 02:58:13
+2022 12 2 2 58 13
+43 33 32 25 2 10 6273578 26 20 0
+3 3 7 1 2
+38 30 3716136 30 22 18
+5 3 2557442 3 4 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 3 2472780 1
+3 2 106724 3
+4 2 187744 4
+1 1 102941 1
+1 1 24671 1
+0 0 0 0
+7 7 2602107 1
+0 0 0 0
+3 3 154910 2
+0 0 0 0
+1 1 60108 1
+0 0 0 0
+2 2 161041 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 233143 2
+0 0 0 0
+6 2 99028 5
+0 0 0 0
+5 5 41302 1
+0 0 0 0
+4 2 27079 2
+0 0 0 0
+0
+0
+0
+33
+0
+0
+0
+0
+0
+0
+0
+1
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/kenrokuen/
+0 1 0 152550 1 0
+/tag/relaxing/
+0 1 0 24602 1 0
+/5/
+0 1 1 84362 0 0
+/static/28a239ca4428ea59625b698efcfc094f/32a6f/kasumigaike.webp
+0 1 0 105988 0 0
+/tag/exhausting/
+0 1 0 24659 1 0
+/osaka/
+0 2 0 260404 2 1
+/sukagawa/
+0 1 0 60108 1 0
+/tag/bad-pictures/
+0 1 0 24694 1 0
+/static/eb22824ed7b0eb350f982bb4c6a3b544/32a6f/tree_two.webp
+0 1 0 215666 0 0
+/icons/icon-144x144.png
+0 1 0 7029 0 0
+/tag/reading/
+0 1 0 24599 1 0
+/static/c5ebe1303178d267955f6e134d1210a7/32a6f/foliage.webp
+0 1 0 129426 0 0
+/nakasendo-trail/
+0 1 0 98183 1 0
+/static/8147b198d616eac635ee605d3e979f13/0ecc0/kushikatsu.webp
+0 1 1 2447950 0 0
+/
+0 3 0 308823 4 0
+/icons/icon-192x192.png
+0 1 0 9643 0 0
+/tag/beautiful-view/
+0 1 0 24671 1 0
+/static/361df1024e972b3da6042f2165554beb/32a6f/tree_three.webp
+0 1 0 368480 0 0
+/tag/more-beautiful-views/
+0 1 1 24689 1 0
+/motohakone/
+0 1 0 136382 1 0
+/robots.txt
+0 6 0 84 0 0
+/component---src-templates-post-template-js-3c116df07d78cba2e3c2.js
+0 1 0 1551171 0 0
+/about/
+0 1 0 26635 0 1
+/static/cf845aeb7b2b85e27e6d15070fbf1bbd/32a6f/gao.webp
+0 1 3467824627948007474 78826 0 0
+/samurai-district/
+0 1 0 81811 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.36.148.209
+0 1 1 24602 1 1669926038
+/tag/relaxing/
+66.249.74.71
+0 1 1 14 0 0
+-
+54.36.149.5
+0 1 1 60108 1 1669889867
+/sukagawa/
+203.75.213.3
+0 1 1 102941 1 1669867009
+/
+54.36.148.123
+0 1 1 368480 0 0
+-
+54.36.148.245
+0 1 1 24659 1 1669899084
+/tag/exhausting/
+157.55.39.123
+0 2 0 415 1 1669920617
+-
+54.36.149.49
+0 1 1 14 0 0
+-
+54.36.148.44
+0 1 1 24694 1 1669882194
+/tag/bad-pictures/
+205.169.39.63
+0 1 1 102941 1 1669911268
+/
+54.36.149.44
+0 1 1 78826 0 0
+-
+114.119.153.242
+0 2 1 231 0 0
+-
+54.36.148.136
+0 1 1 24689 1 1669944560
+/tag/more-beautiful-views/
+114.119.141.9
+0 1 1 136382 1 1669896867
+/motohakone/
+65.21.206.46
+0 6 3 241853 3 1669949893
+/5/
+114.119.131.71
+0 2 1 231 0 0
+-
+65.21.206.45
+0 2 1 82035 1 1669857336
+/samurai-district/
+54.36.148.96
+0 1 1 129426 0 0
+-
+51.222.253.1
+0 1 1 14 0 0
+-
+157.55.39.127
+0 2 0 416 1 1669920633
+-
+66.249.74.73
+0 1 1 7029 0 0
+-
+54.36.149.1
+0 1 1 215666 0 0
+-
+54.36.149.28
+0 1 1 1551171 0 0
+-
+54.36.148.204
+0 1 1 152550 1 1669875871
+/kenrokuen/
+54.36.148.51
+0 1 1 24599 1 1669853362
+/tag/reading/
+54.36.148.0
+0 1 1 102941 1 1669861744
+/
+54.36.148.166
+0 1 1 24671 1 1669869067
+/tag/beautiful-view/
+54.36.148.164
+0 1 1 105988 0 0
+-
+157.55.39.45
+0 1 1 2447950 0 0
+-
+54.36.148.19
+0 1 1 130202 1 1669912178
+/osaka/
+66.249.74.67
+0 1 1 9643 0 0
+-
+87.250.224.17
+0 2 2 98197 1 1669917993
+/nakasendo-trail/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+54.36.148.136
+0 1 1 24689 1 1669944560
+/tag/more-beautiful-views/
+65.21.206.46
+0 3 1 84803 1 1669949893
+/5/
+157.55.39.45
+0 1 1 2447950 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 42
+http://www.neue-pfa.de/tag/must-do-in-japan
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 18
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 3
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
